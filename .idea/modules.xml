@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-core-lib/app-core-lib.iml" filepath="$PROJECT_DIR$/app-core-lib/app-core-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-data-lib/app-data-lib.iml" filepath="$PROJECT_DIR$/app-data-lib/app-data-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-ui-war/app-ui-war.iml" filepath="$PROJECT_DIR$/app-ui-war/app-ui-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-maven.iml" filepath="$PROJECT_DIR$/test-maven.iml" />
+    </modules>
+  </component>
+</project>
